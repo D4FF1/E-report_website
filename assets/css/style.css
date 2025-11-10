@@ -53,7 +53,7 @@ html {
     position: relative;
     height: 100vh;
     min-height: 600px;
-    background-image: url('assets/img/Sentul.png');
+    background-image: url('https://via.placeholder.com/1920x1080');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -379,7 +379,7 @@ html {
     position: relative;
     height: 100vh;
     min-height: 600px;
-    background-image: url('../Sentul.png');
+    background-image: url('../img/Sentul.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
